@@ -1,2 +1,3 @@
-I am currently working as a cloud consultant mainly focusing on Azure Resources. 
-I've been part of the IT industry since 2014, mostly working in 1st and 2nd line ITSM.
+I am currently working as an Azure Cloud Engineer and I have been in the IT industry in a wide variety of roles since 2014.
+
+OpenBSD, IaC and automation. 
